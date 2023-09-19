@@ -1,0 +1,36 @@
+canvas {
+    border: 2px solid black;
+}
+
+body {
+    text-align: center;
+}
+
+#cor1 {
+    background-color: #010005;
+}
+
+#cor2 {
+    background-color: #2acd6e;
+}
+
+#cor3 {
+    background-color: #e661f6;
+}
+
+#cor4 {
+    background-color: #2d006e;
+}
+
+#cor5 {
+    background-color: #8c0cf8;
+}
+
+#cor6 {
+    background-color: #01b235;
+}
+
+.cor {
+    height: 30px;
+    width: 30px;
+}
